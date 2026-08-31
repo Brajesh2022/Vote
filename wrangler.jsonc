@@ -1,9 +1,0 @@
-{
-  "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "vote",
-  "pages_build_output_dir": "./dist",
-  "compatibility_date": "2024-09-01",
-  "compatibility_flags": [
-    "nodejs_compat"
-  ]
-}
